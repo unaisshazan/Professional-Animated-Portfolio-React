@@ -42,6 +42,8 @@ const Intro = () => {
 
         <div>
           <FloatingDiv image={Crown} txt1='Web' txt2='Developer'/>
+          <FloatingDiv image={thumbup} txt1='Web' txt2='Developer'/>
+          <FloatingDiv image={glassesimoji} txt1='Web' txt2='Developer'/>
         </div>
       </div>
     </div>
