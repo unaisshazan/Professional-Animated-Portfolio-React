@@ -1,7 +1,7 @@
 import React from 'react'
 
 const FloatingDiv = () => {
-  return (
+  return(
     <div>FloatingDiv</div>
   )
 }
